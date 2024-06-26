@@ -1,0 +1,15 @@
+.chart-layout__item{
+    width: var(--percent);
+    color: aliceblue;
+    text-align: center;
+    height: 80px;
+    background-color: rgb(255 152 0);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    
+}
+h3{
+    color: aliceblue;
+    margin: auto;
+}

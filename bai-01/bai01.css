@@ -1,0 +1,38 @@
+.container {
+    width: 100%;
+    background-color: white;
+    border: 1px solid black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+
+}
+.hinhvuongtrai{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 30px;
+    display: flex;
+}
+.hinhtron{
+    width: 150px;
+    height: 150px;
+    background-color:blue;
+    border-radius: 75px;
+    display: flex;
+}
+.hinhvuongphai{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 30px;
+    display: flex;
+}
+h3{
+    color: aliceblue;
+    margin: auto;
+    font-size: 15px;
+
+}
+
+

@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+    flex-wrap: none;
+}
+li{
+    padding: 10px;
+}
+li a{
+    padding: 10px;
+    text-decoration: none;
+    color: aliceblue;
+    height: 56px;
+   
+}
+.nav{
+    background-color: blue;
+    padding: 10px;
+    
+}
+img{
+    width: 25px;
+    height: 25px;
+    border-radius: 12.5px;  
+}
+
+   
+.fa-chevron-down{
+    color: white;
+    position: absolute;
+}
+
+.search-container{
+    position: relative;
+}
+.fa-magnifying-glass{
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+input{
+    padding: 5px 0px;
+}
+
+   
+

@@ -1,0 +1,44 @@
+.container{
+    width: 100%;
+    background-color: white;
+    align-items: center;
+}
+.item{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    color: aliceblue;
+    margin: 10px;
+    justify-content: center;
+    
+   
+}
+h3.container-1-2-3-4{
+    display: flex;
+    align-items: center;
+    
+
+}
+
+.container-1-2-3-4{
+    display: flex;
+    text-align: center;
+    align-items: center;
+
+}
+.container-1-2{
+    display: flex;
+
+
+}
+.container-3,.container-4 {
+  display: flex;
+}
+.container-2{
+    display: flex;
+    flex-direction: column-reverse;
+}
+.container-4{
+    display: flex;
+    flex-direction: row-reverse;
+}
